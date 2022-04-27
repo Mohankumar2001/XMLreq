@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <user_id>1</user_id>
+        <name>Mohan</name>
+        <email>106119078@nitt.edu</email>
+        <username>mohan1234</username>
+    </user>
+    
+    <user>
+        <user_id>2</user_id>
+        <name>Aahil</name>
+        <email>rayhan@gmail.com</email>
+        <username>aahil_123</username>
+    </user>
+    
+    <user>
+        <user_id>3</user_id>
+        <name>Sharan Ram</name>
+        <email>shar07@gmail.com</email>
+        <username>shar07</username>
+    </user>
+    
+    <user>
+        <user_id>4</user_id>
+        <name>Mukilan</name>
+        <email>mukilan@gmail.com</email>
+        <username>mukilan1234</username>
+    </user>
+    
+    <user>
+        <user_id>5</user_id>
+        <name>Girishwar</name>
+        <email>girish97@gmail.com</email>
+        <username>girish97</username>
+    </user>
+    
+    <user>
+        <user_id>6</user_id>
+        <name>dharun</name>
+        <email>dharunsri@gmail.com</email>
+        <username>dharunsri</username>
+    </user>
+    
+    <user>
+        <user_id>7</user_id>
+        <name>Divakar</name>
+        <email>divakar@gmail.com</email>
+        <username>divakarps</username>
+    </user>
+    
+    <user>
+        <user_id>8</user_id>
+        <name>Pavan</name>
+        <email>pavan_bokam@gmail.com</email>
+        <username>bokam_pavan</username>
+    </user>
+    
+    <user>
+        <user_id>9</user_id>
+        <name>Jahid Shyam</name>
+        <email>jahid@gmail.com</email>
+        <username>jahid_shyam</username>
+    </user>
+    
+    <user>
+        <user_id>10</user_id>
+        <name>Mohammad Sameer</name>
+        <email>sameer@gmail.com</email>
+        <username>sameer_123</username>
+    </user>
+
+</users>
+
